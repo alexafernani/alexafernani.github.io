@@ -139,8 +139,8 @@ section.mainstory p{
 }
 
 article.mainstory{
-	max-width: 40em;
-	margin:0 auto 3em;
+	padding: 0 8.5em 2em 8.5em;
+	background-color: rgb(229,229,215);
 
 }
 
